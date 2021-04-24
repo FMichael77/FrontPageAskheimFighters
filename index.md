@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Desenvolvimendo do jogo Askheim Fighters
 
-You can use the [editor on GitHub](https://github.com/FMichael77/FrontPageAskheimFighters/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Nome da equipe
+FAM Games
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Membros da equipe
+**Francisco Michael Soares de Oliveira:** Habilidades na parte programação, e de áudio design.  
+**Gustavo Albert Lopes Sousa:** Habilidades na parte de programação e design.  
+**Mateus Alves Gonzaga:** Habilidades na parte programação e de arte.  
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FMichael77/FrontPageAskheimFighters/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Resumo sobre o jogo
+Inicialmente será desenvolvido um jogo simples, 2D, que terá foco em um pvp com com multijogadores. Os jogadores irão arremessar ou disparar algum tipo de poder ou arma um no outro, e o jogador que conseguir acabar com a vida do outro primeiro, em uma melhor de três, ganha a partida.
