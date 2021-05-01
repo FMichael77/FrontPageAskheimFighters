@@ -9,7 +9,7 @@ FAM Games
 **Mateus Alves Gonzaga:** Habilidades na parte programação e de arte.  
 
 ### Resumo sobre o jogo
-Askheim Fighters  será um  jogo  simples, 2D, que terá foco em um pvp com com multijogadores. Os jogadores irão arremessar ou disparar algum tipo de poder ou arma um no outro, e o jogador que conseguir acabar com a vida do outro primeiro, em uma melhor de três, ganha a partida.
+Askheim Fighters  será um  jogo  simples, 2D, que terá foco em um PvP com com multijogadores. Os jogadores irão arremessar ou disparar algum tipo de poder ou arma um no outro, e o jogador que conseguir acabar com a vida do outro primeiro, em uma melhor de três, ganha a partida.
 
 ### Plataforma de desenvolvimento
 O game será desenvolvido na linguagem GDscript, na game engine **Godot**.  
